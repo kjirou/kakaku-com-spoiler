@@ -1,0 +1,26 @@
+{
+  "name": "kakaku-com-spoiler",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/kjirou/kakaku-com-spoiler/issues"
+  },
+  "dependencies": {
+    "async": "0.9.0",
+    "iconv": "2.1.5",
+    "request": "2.53.0"
+  },
+  "devDependencies": {
+    "fixpack": "1.2.0"
+  },
+  "homepage": "https://github.com/kjirou/kakaku-com-spoiler",
+  "license": "https://github.com/kjirou/kakaku-com-spoiler/blob/master/LICENSE",
+  "main": "bin/index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kjirou/kakaku-com-spoiler.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
